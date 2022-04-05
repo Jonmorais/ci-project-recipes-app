@@ -1,6 +1,6 @@
 # Projeto Recipes-App
 
-### Projeto feito juntamente com a Trybe
+### Projeto feito durante o bootcamp na Trybe
 ---
 
 #  Tecnologias utilizadas
@@ -19,13 +19,11 @@
 
 Lista Receitas , ingredientes , organiza receitas em andamento e concluidas.
 
-## Como rodar o codigo na maquina?
+## Como rodar o código localmente?
 
-Assim que o projeto estiver em sua maquina você deve abrir e  :
--  instalar dependencias : npm intall
-( aviso:  instalaçoes e versoes trabalhadas em uma máquina linux ubunto/mint)
-
--  rodar o projeto / abrir no browser: npm start
+- Faça o git clone;
+- Instale as dependências via npm intall
+- Execute o projeto via npm start (Irá abrir o site em seu navegador)
  
 
 ## Como é o site ?
@@ -36,11 +34,6 @@ Assim que o projeto estiver em sua maquina você deve abrir e  :
 e ver o andamento de uma receita escolhida. 
  - As receitas contém ingredientes, modo de preparo e video.
 
-####
 
-#### Projeto no gitbuhPages , link na descriçao do repositório ( seção about )
-
-####
-
-#### Projeto Feito em grupo 
+#### Projeto Feito em grupo, utilizando metodologias ágeis, trello, zoom e slack.
 
